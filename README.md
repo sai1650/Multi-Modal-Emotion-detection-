@@ -3,6 +3,7 @@ Multimodal emotion detection using BERT and LSTM, combining text and visual feat
  this is project classes are text video and audio
 this data i was collected from hugging face 
 for this  i got 91 accuracy
-it is deeplearing
+it is deeplearing model
+
 
 
